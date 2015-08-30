@@ -47,7 +47,7 @@ THE SOFTWARE.
 You can use 7 formats license.
 
 |license|name|
-|-:|-:|
+|--:|--:|
 |MIT License|mit|
 |BSD 2-Clause License|bsd2|
 |BSD 3-Clause License|bsd3|
