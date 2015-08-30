@@ -1,5 +1,8 @@
 # license
+[![Circle CI](https://circleci.com/gh/upamune/license/tree/master.svg?style=svg)](https://circleci.com/gh/upamune/license/tree/master)
+
 license command can generate LICENSE easily.
+
 
 ## Usage
 
