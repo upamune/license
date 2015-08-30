@@ -5,7 +5,6 @@ deployment:
   release:
     branch: master
     commands:
-      - go get -u github.com/jteeuwen/go-bindata/...
       - go-bindata template
       - go get github.com/tcnksm/ghr
       - gox --osarch "windows/amd64 darwin/amd64 linux/amd64 freebsd/amd64 solaris/amd64" --output "dist/{{.Dir}}_{{.OS}}_{{.Arch}}"
